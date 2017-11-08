@@ -1,0 +1,9 @@
+server:
+     port: 8080
+  
+logging:
+  file: log/history.log
+  pattern:
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %logger{36} : %msg%n"
+  level:
+    root: INFO

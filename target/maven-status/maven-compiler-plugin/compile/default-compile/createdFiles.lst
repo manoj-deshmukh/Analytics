@@ -1,0 +1,5 @@
+com/analytics/library/models/HealthStatus.class
+com/analytics/library/controllers/ButtonController.class
+com/analytics/library/AnalyticsApplication.class
+com/analytics/library/models/StatusCheck.class
+com/analytics/library/controllers/HealthController.class
