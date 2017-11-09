@@ -2,14 +2,15 @@ package com.analytics.library.models;
 
 public class Timer {
 
-	float time;
+	long time;
 
-	public float getTime() {
+	public long getTime() {
 		return time;
 	}
 
-	public void setTime(float time) {
+	public void setTime(long time) {
 		this.time = time;
 	}
+	
 	
 }
